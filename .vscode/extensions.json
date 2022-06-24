@@ -2,6 +2,7 @@
     "recommendations": [
         "dbaeumer.vscode-eslint",
         "streetsidesoftware.code-spell-checker",
-        "formulahendry.auto-rename-tag"
+        "formulahendry.auto-rename-tag",
+        "esbenp.prettier-vscode"
     ]
 }
