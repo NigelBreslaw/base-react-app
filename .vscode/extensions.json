@@ -1,8 +1,9 @@
 {
-    "recommendations": [
-        "dbaeumer.vscode-eslint",
-        "streetsidesoftware.code-spell-checker",
-        "formulahendry.auto-rename-tag",
-        "esbenp.prettier-vscode"
-    ]
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "formulahendry.auto-rename-tag",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint"
+  ]
 }
